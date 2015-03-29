@@ -6,6 +6,7 @@ Script simples para fazer a validação de um formulário de contato em ASP.NET 
 #Dependências:
 jQuery
 
+#Resumo
 A validação apenas verifica se os campos estão preenchidos, se o campo e-mail é um e-mail válido e se apenas um campo entre um grupo de campos está preenchido.
 
 #Classes CSS
